@@ -10,13 +10,12 @@ My relationship with AI started the way most people's does - typing in a prompt 
 
 
 ### 🛠️ Tech I work with 
- 
-**Languages:** Python, TypeScript, JavaScript, SQL
-**Backend:** Flask, Node.js, REST APIs, FastAPI
-**Data & Infra:** PostgreSQL, AWS Lambda, AWS API Gateway, MongoDB
-**Cloud & AI Tooling:** AWS, GCP, OpenAI API, Cursor, Claude Code, Git
-**Security:** IAM, PAM, SAML, OAuth, SSO, Session Monitoring, TCP/IP, Firewalls
 
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **Backend:** Flask, Node.js, REST APIs, FastAPI
+- **Data & Infra:** PostgreSQL, AWS Lambda, AWS API Gateway, MongoDB
+- **Cloud & AI Tooling:** AWS, GCP, OpenAI API, Cursor, Claude Code, Git
+- **Security:** IAM, PAM, SAML, OAuth, SSO, Session Monitoring, TCP/IP, Firewalls
 ### 📫 Reach me
 
 <p align="left">
