@@ -1,5 +1,8 @@
 <h1 align="left">Hi, I'm Smruti Singh 👋</h1>
 
+
+<img src="./assets/banner.png" width="500" alt="Profile banner" />
+
 I'm a customer-facing Software Engineer who works at the intersection of engineering and client success - deploying, implementing, and supporting systems directly within client environments. I care about getting things right the first time: reliable integrations, correct data, and solutions that hold up long after go-live, not just at demo time.
 
 I completed my Master's in Information Management from the **University of Illinois Urbana-Champaign**, and prior experience at **ARCON Tech Solutions** working on PAM/IAM (Privileged & Identity Access Management) implementation. I like building products end-to-end that is from data pipelines to the UI people actually touch.
